@@ -81,6 +81,7 @@ var searchData=
   ['rclost',['RCLost',['../nav_8h.html#ac3892fe123b99e805c0c5d5b1b4cd144',1,'nav.h']]],
   ['rcroll',['RcRoll',['../nav_8h.html#a7c6d9ca050122212a8a269e08f8c23f2',1,'nav.h']]],
   ['rcsettingsoff',['RcSettingsOff',['../rc__settings_8h.html#abfe4dd8918b6b47bb2d488c62343372d',1,'rc_settings.h']]],
+  ['rcvalue',['RCValue',['../radio__control_8h.html#a9e76d89b30ff9e29ad85bd7d83d9e783',1,'radio_control.h']]],
   ['read',['READ',['../chdk__pipe_8c.html#ada74e7db007a68e763f20c17f2985356',1,'chdk_pipe.c']]],
   ['read_5fchecksum',['READ_CHECKSUM',['../rtcm3_8h.html#a87420c9a4399f62b8087511c9b6957a1',1,'rtcm3.h']]],
   ['read_5flength',['READ_LENGTH',['../rtcm3_8h.html#abd607f13447d238cfa36348ed8e5d383',1,'rtcm3.h']]],
